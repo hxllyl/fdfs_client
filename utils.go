@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/weilaihui/goconfig/config"
+	"github.com/hxllyl/goconfig/config"
 )
 
 type Errno struct {
